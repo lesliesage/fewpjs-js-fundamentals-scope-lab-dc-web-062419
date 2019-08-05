@@ -1,10 +1,12 @@
+let animal = ""
+
 function myAnimal() {
-  const animal = "dog"
+  animal = "dog"
   return animal
 }
 
 function yourAnimal() {
-  const animal = "cat"
+  animal = "cat"
   return animal
 }
 
